@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyBy2VkQXTgCWkfWfgejVUcKH5GuO2DFAds');
+define('APIKEY', 'AIzaSyAdJm1Ff5LFthyzuOTrRrGC_VkJHAJHpXs');
 define('GJ_CODE', 'JP');
 define('SITE_NAME', 'YouTube');
 define('TITLENAME', 'YouTube Mirror');
